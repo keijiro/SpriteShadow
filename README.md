@@ -1,5 +1,5 @@
-Sprite Shadow
--------------
+Sprite Shadow Shader
+--------------------
 
 ![Animation](http://keijiro.github.io/SpriteShadow/animation.gif)
 
