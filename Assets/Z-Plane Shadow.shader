@@ -11,7 +11,7 @@ Shader "Sprites/Z-Plane Shadow"
     {
         Tags
         { 
-            "Queue"="Transparent" 
+            "Queue"="Transparent-1" 
             "IgnoreProjector"="True" 
             "RenderType"="Transparent" 
             "PreviewType"="Plane"
